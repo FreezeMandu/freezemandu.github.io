@@ -1,5 +1,5 @@
 # introduce
 
 * name : freezeMandu
-* age : 18
+* age : 1x
 * website : https://
